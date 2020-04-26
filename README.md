@@ -1,1 +1,3 @@
-SimpleMiner-linux
+# SimpleMiner Linux
+
+wip
